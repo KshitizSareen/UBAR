@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "UBAR (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "UBAR (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
